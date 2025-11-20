@@ -59,7 +59,8 @@ Se observa que se usan más caracteristicas y el arbol crece en tamaño
 |   |   |--- magnesium >  147.00
 |   |   |   |--- class: 1
 
-### max_depth = 8 (o none)
+max_depth = 8 (o none)
+
 El arbol se vuelve mucho más complejo con multiples niveles y reglas muy especificas:
 
 |--- od280/od315_of_diluted_wines <= 2.11

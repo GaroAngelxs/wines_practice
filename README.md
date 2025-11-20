@@ -16,6 +16,7 @@ Este proyecto usa un clasificador utilizando el algoritmo de decision tree aplic
 
 
 max_depth = 2
+
 El arbol es pequeño y tiene muy pocas caracteristicas:
 |--- proline <= 755.00
 |   |--- flavanoids <= 1.24
@@ -29,6 +30,7 @@ El arbol es pequeño y tiene muy pocas caracteristicas:
 |   |   |--- class: 0
 
 max_depth = 4
+
 Se observa que se usan más caracteristicas y el arbol crece en tamaño
 |--- proline <= 755.00
 |   |--- color_intensity <= 4.85

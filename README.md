@@ -13,9 +13,10 @@ Este proyecto usa un clasificador utilizando el algoritmo de decision tree aplic
 - Entrenar el modelo sin limitar la profundidad y evaluar resultados
 
 ## Resultados
+
+
 max_depth = 2
 El arbol es pequeño y tiene muy pocas caracteristicas:
-```text
 |--- proline <= 755.00
 |   |--- flavanoids <= 1.24
 |   |   |--- class: 2

@@ -94,7 +94,6 @@ Cuando el max_depth era de 2, el arbol era muy pequeño y tenía muy pocas carac
 
 Cuando puse el max_depth en None paso lo mismo que cuando iba aumentando la profundidad poco a poco: el arbol se volvió mas complejo y largo y usaba muchas caracteristicas y entre más profundidad (depth) tuviera, mas precisos eran los resultados
 
-Viabilidad en mi Base de Conocimiento
 ¿Crees que tu base de conocimiento cumple con los requerimientos para utilizarse en un modelo de arbol de decisiones?
 
 Respuesta: yo digo que no la podriamos usar en un modelo de arbol de decisiones ya que esta basada en reglas y no en una base de datos estructurada
